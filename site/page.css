@@ -1,0 +1,17 @@
+body {font-family:sans-serif; background:#150c0e; color:#d2cecd}
+h1 {color:#d08a70; font-size:2.25rem; font-weight:600;}
+h2 {color:#c89b8c; font-size:1.875rem; font-weight:600;}
+h3 {color:#c8a6a0; font-size:1.5rem; font-weight:600;}
+h4 {color:#b7a6a4; font-size:1.25rem; font-weight:600;}
+h5 {color:#b0acab; font-size:1.125rem; font-weight:600;}
+h6 {color:#a39f9f; font-size:1rem; font-weight:600;}
+h1, h2, h3, h4, h5, h6 {margin:1.2em 0 0.5em;}
+pre.block {margin-bottom:0}
+pre.result {margin-top:0}
+.output {background:#f8f8f8; color:#222; padding:4px 8px}
+table {border-collapse:collapse}
+table tr:nth-child(even) {background-color:#2a1a1c;}
+table tr:nth-child(odd) {background-color:#1d1213;}
+td {padding:4px}
+a {color:#4da3ff}
+a:visited {color:#4da3ff}
